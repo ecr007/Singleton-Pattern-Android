@@ -1,0 +1,1 @@
+# Use-un-patr-n-singleton---Request---Android
